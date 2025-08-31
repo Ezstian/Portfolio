@@ -48,7 +48,6 @@ body{
     cursor: pointer;
     border-radius: 6px;
     transition: background 0.3s ease;
-
 }
 .hire-btn:hover{
     background: purple;
